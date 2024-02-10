@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Adversarial Attacks on Federated Learning Models**
 
-- 💬 Ask me about **Machine Learning and Natural Language Processing**
+- 💬 Ask me about: **Machine Learning and Natural Language Processing**
 
-- 📫 How to reach me **rohitmapakshi@gmail.com**
+- 📫 Email: **rohitmapakshi@gmail.com**
 
-- ⚡ Fun fact **I am a huge MMA Fan**
+- ⚡ Fun fact: **I am a huge MMA Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
