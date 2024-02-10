@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Mapakshi</h1>
 <h3 align="center">Energetic MS Computer Science student with a flair for turning lines of code into digital masterpieces</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-mapakshi97&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-mapakshi97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-mapakshi97" alt="rohit-mapakshi97" /></a> </p>
-
 - 🔭 I’m currently working on **Adversarial Attacks on Federated Learning Models**
 
 - 💬 Ask me about **Machine Learning and Natural Language Processing**
@@ -24,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-mapakshi97&show_icons=true&locale=en&layout=compact" alt="rohit-mapakshi97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-mapakshi97&show_icons=true&locale=en" alt="rohit-mapakshi97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-mapakshi97&" alt="rohit-mapakshi97" /></p>
-
