@@ -1,4 +1,3 @@
-
 <h1 align="center"><a "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=38&duration=2000&pause=&color=000000&center=true&repeat=false&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Mapakshi" alt="Typing SVG" /></a></h1>
 
 <h4 align="center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=34&duration=5000&pause=2000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=100&lines=Energetic+MSCS+student+with+a+flair+for+turning+lines+of+code+into+digital+masterpieces+" alt="Typing SVG" /></a></h4>
