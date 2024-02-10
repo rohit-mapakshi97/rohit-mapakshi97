@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **Machine Learning and Natural Language Processing**
 
-- 📫 Email: **rohitmapakshi@gmail.com**
+- 📫 Get in touch **rohitmapakshi@gmail.com**
 
 - ⚡ Fun fact: **I am a huge MMA Fan**
 
