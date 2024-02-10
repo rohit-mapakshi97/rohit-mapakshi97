@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Adversarial Attacks on Federated Learning Models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohit-mapakshi97](https://github.com/rohit-mapakshi97)
-
 - 💬 Ask me about **Machine Learning and Natural Language Processing**
 
 - 📫 How to reach me **rohitmapakshi@gmail.com**
