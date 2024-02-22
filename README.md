@@ -23,6 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-mapakshi97&show_icons=true&locale=en" alt="rohit-mapakshi97" /></p>
 
 
-  ![Snake animation](https://github.com/rohit-mapakshi97/rohit-mapakshi97/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-mapakshi97&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-mapakshi97" /> </p>
