@@ -24,8 +24,6 @@
 
 
 <div align="center">
- 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  ![Snake animation](https://github.com/rohit-mapakshi97/rohit-mapakshi97/blob/output/github-contribution-grid-snake.svg)
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-mapakshi97&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-mapakshi97" /> </p>
