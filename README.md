@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: **I am a huge MMA Fan**
 
-<h3 align="left">Connect with me:</h3>
+# 🫖 Connect with me 
 <div align="left">
   <a href="https://www.rohitmapakshi.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
